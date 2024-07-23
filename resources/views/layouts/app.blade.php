@@ -32,7 +32,7 @@
                         @guest
                             @else
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('brand.index') }}">Brand</a>
+                                <a class="nav-link" href="{{ route('biodata.index') }}">Biodata</a>
                             </li>
                         @endguest
 
